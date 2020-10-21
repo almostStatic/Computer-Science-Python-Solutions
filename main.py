@@ -1,0 +1,1 @@
+from Programmes.digitalLiftInterface import fn as DigitalLiftInterface;
