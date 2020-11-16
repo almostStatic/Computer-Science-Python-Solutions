@@ -6,3 +6,4 @@ from Programmes.pyps004 import fn as fn3
 from Programmes.pyps005 import fn as fn4
 from Programmes.pyps006 import fn as fn5
 from Programmes.pyps007 import fn as fn6
+from Programmes.pyps008 import fn as fn7
