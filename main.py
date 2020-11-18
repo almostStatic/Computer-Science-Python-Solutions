@@ -9,3 +9,5 @@ from Programmes.pyps007 import fn as fn6
 from Programmes.pyps008 import fn as fn7
 from Programmes.pyps009 import fn as fn8
 from Programmes.pyps010 import fn as fn9
+from Programmes.pyps011 import fn as fn10
+from Programmes.pyps012 import fn as fn11
